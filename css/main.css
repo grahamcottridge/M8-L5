@@ -59,7 +59,7 @@ header {
 header h1 {
   width: 100%;
   margin: 0;
-  padding: 38px 0;
+  padding: 38px 0 20px 0;
 }
 
 header h1 span {
@@ -67,7 +67,7 @@ header h1 span {
 }
 
 header nav {
-  padding: 46px 0;
+  padding: 20px 0;
 }
 
 header nav ul {
@@ -81,7 +81,7 @@ header nav ul li {
   font-size: 0.875rem;
   font-weight: 700;
   text-transform: uppercase;
-  padding: 0 10px;
+  padding: 10px 0;
 }
 
 header nav ul li a {
@@ -129,8 +129,8 @@ header nav ul li a {
 
 .section-two {
   /* width: 42%; */
-  border-left: 5px solid #eee;
-  border-right: 5px solid #eee;
+  border-top: 5px solid #eee;
+  border-bottom: 5px solid #eee;
 }
 
 .section-three {
